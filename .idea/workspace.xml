@@ -5,25 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87c6bcaf-be39-4806-8312-a001c032c0b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaBackendTest-08-2021.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FileUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MathUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PropertyScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/res.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BaseApiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ImgurApiTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MathUtilTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PropertyScannerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/expected.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/res.jpg" afterDir="false" />
       <change beforePath="$USER_HOME$/arcadia/market/vendors/cs-billing/cs-billing-core/src/java/ru/yandex/cs/billing/billing/BillingService.java" beforeDir="false" afterPath="$USER_HOME$/arcadia/market/vendors/cs-billing/cs-billing-core/src/java/ru/yandex/cs/billing/billing/BillingService.java" afterDir="false" />
       <change beforePath="$USER_HOME$/arcadia/market/vendors/cs-billing/cs-billing-core/src/java/ru/yandex/cs/billing/billing/CampaignPaymentDao.java" beforeDir="false" afterPath="$USER_HOME$/arcadia/market/vendors/cs-billing/cs-billing-core/src/java/ru/yandex/cs/billing/billing/CampaignPaymentDao.java" afterDir="false" />
       <change beforePath="$USER_HOME$/arcadia/market/vendors/cs-billing/cs-billing-core/src/java/ru/yandex/cs/billing/campaign/dao/CampaignDao.java" beforeDir="false" afterPath="$USER_HOME$/arcadia/market/vendors/cs-billing/cs-billing-core/src/java/ru/yandex/cs/billing/campaign/dao/CampaignDao.java" afterDir="false" />
@@ -166,12 +147,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629738677106</updated>
-      <workItem from="1629738678306" duration="8361000" />
+      <workItem from="1629738678306" duration="8888000" />
     </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1629747088330</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629747088330</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -180,11 +184,6 @@
           <url>file://$PROJECT_DIR$/src/test/java/MathUtilTest.java</url>
           <line>64</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/ImgurApiTest.java</url>
-          <line>71</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
