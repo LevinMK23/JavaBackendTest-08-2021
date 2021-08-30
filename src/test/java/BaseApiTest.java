@@ -1,5 +1,7 @@
 import java.io.IOException;
 
+import utils.PropertyScanner;
+
 abstract class BaseApiTest {
 
     private final String token;

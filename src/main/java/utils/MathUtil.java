@@ -1,3 +1,5 @@
+package utils;
+
 public final class MathUtil {
 
     private MathUtil() {}
