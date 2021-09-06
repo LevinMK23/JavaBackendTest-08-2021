@@ -190,7 +190,7 @@
       <workItem from="1630503748449" duration="6968000" />
       <workItem from="1630515962414" duration="8467000" />
       <workItem from="1630918743063" duration="1867000" />
-      <workItem from="1630949781525" duration="1909000" />
+      <workItem from="1630949781525" duration="2458000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1629747088330</created>
@@ -227,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630951198545</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lesson 7 Jenkins">
+      <created>1630951702774</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1630951702774</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
