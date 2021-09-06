@@ -1,4 +1,5 @@
 import java.io.IOException;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.stream.Stream;
@@ -18,7 +19,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 import static org.junit.jupiter.params.provider.Arguments.arguments;
 
-class MathUtilTest {
+public class MathUtilTest {
 
     private static Stream<Arguments> getDataForSumTest() {
         return Stream.of(
@@ -62,7 +63,7 @@ class MathUtilTest {
     @DisplayName("Тест на создание временного файла")
     void fileCreationTest(@TempDir Path path) throws IOException {
         Path file = Files.createFile(path.resolve("test.txt"));
-        Files.writeString(file, "Hello world!");
+        Files.write(file, "Hello world!".getBytes(StandardCharsets.UTF_8));
         assertTrue(Files.exists(file));
     }
 

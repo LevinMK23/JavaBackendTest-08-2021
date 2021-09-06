@@ -1,6 +1,7 @@
 import java.io.IOException;
 
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 import retrofit.api.MiniMarketApi;
 import retrofit.dto.Category;
@@ -23,6 +24,7 @@ public class ApiTest {
     }
 
     @Test
+    @Disabled
     void testCreateProduct() throws IOException {
 
         ProductDto dto = ProductDto.builder()

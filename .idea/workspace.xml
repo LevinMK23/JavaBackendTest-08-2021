@@ -5,18 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87c6bcaf-be39-4806-8312-a001c032c0b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekdb.mv.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekdb.trace.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jdbc/JDBCTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/myBatis/MyBatisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/myBatis/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BaseApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/FileUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/PropertyScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/PropertyScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ImgurApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ImgurApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MathUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MathUtilTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PropertyScannerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PropertyScannerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +69,9 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
@@ -86,8 +86,9 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources/myBatis" />
       <recent name="$PROJECT_DIR$/src/main/resources/utils" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/myBatis" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -96,7 +97,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyBatisTest">
+  <component name="RunManager" selected="JUnit.All in JavaBackendTest-08-2021">
     <configuration name="JDBCTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jdbc.JDBCTest" />
       <module name="JavaBackendTest-08-2021" />
@@ -149,6 +150,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in JavaBackendTest-08-2021" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaBackendTest-08-2021" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ApiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaBackendTest-08-2021" />
       <option name="PACKAGE_NAME" value="" />
@@ -158,23 +167,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ApiTest.testCreateProduct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaBackendTest-08-2021" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ApiTest" />
-      <option name="METHOD_NAME" value="testCreateProduct" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in JavaBackendTest-08-2021" />
         <item itemvalue="Application.MyBatisTest" />
         <item itemvalue="Application.JDBCTest" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.ApiTest" />
-        <item itemvalue="JUnit.ApiTest.testCreateProduct" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +195,9 @@
       <workItem from="1630344615426" duration="5112000" />
       <workItem from="1630412514961" duration="593000" />
       <workItem from="1630503748449" duration="6968000" />
-      <workItem from="1630515962414" duration="7835000" />
+      <workItem from="1630515962414" duration="8467000" />
+      <workItem from="1630918743063" duration="1867000" />
+      <workItem from="1630949781525" duration="1356000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1629747088330</created>
@@ -219,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630349530386</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lesson 6 ORM">
+      <created>1630523993484</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630523993484</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,14 +249,15 @@
     <MESSAGE value="Init" />
     <MESSAGE value="Lesson 4 Patterns and Serialize" />
     <MESSAGE value="Lesson 5 Retrofit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 5 Retrofit" />
+    <MESSAGE value="Lesson 6 ORM" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 6 ORM" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/MathUtilTest.java</url>
-          <line>65</line>
+          <line>66</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

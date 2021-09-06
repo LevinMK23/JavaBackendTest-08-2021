@@ -14,7 +14,7 @@ import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.notNullValue;
 
-class ImgurApiTest extends BaseApiTest {
+public class ImgurApiTest extends BaseApiTest {
 
     private String currentDeleteHash;
 

@@ -7,7 +7,7 @@ import utils.PropertyScanner;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class PropertyScannerTest {
+public class PropertyScannerTest {
 
     private PropertyScanner propertyScanner;
 
