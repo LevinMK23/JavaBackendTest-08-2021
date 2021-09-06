@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87c6bcaf-be39-4806-8312-a001c032c0b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekdb.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/geekdb.mv.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/FileUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/PropertyScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/PropertyScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ApiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ImgurApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ImgurApiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MathUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MathUtilTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PropertyScannerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PropertyScannerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +190,7 @@
       <workItem from="1630503748449" duration="6968000" />
       <workItem from="1630515962414" duration="8467000" />
       <workItem from="1630918743063" duration="1867000" />
-      <workItem from="1630949781525" duration="1356000" />
+      <workItem from="1630949781525" duration="1909000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1629747088330</created>
@@ -227,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630523993484</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Lesson 7 Jenkins">
+      <created>1630951198545</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1630951198545</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +250,8 @@
     <MESSAGE value="Lesson 4 Patterns and Serialize" />
     <MESSAGE value="Lesson 5 Retrofit" />
     <MESSAGE value="Lesson 6 ORM" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 6 ORM" />
+    <MESSAGE value="Lesson 7 Jenkins" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 7 Jenkins" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
